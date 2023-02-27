@@ -1,5 +1,5 @@
 {
-  "name": "node-js-sample",
+  "name": "node-ihvrinjivjbhdjekdvsorvhuisrgvjrsgjoiwy9287t824iuj2jnrgkjfi0wrhgiqoegeg8qe546sf68qe7q3euiuhfidbjvhsfkjvsfj kjfvownujs-sample",
   "version": "0.2.0",
   "description": "A sample Node.js app using Express 4",
   "main": "index.js",
@@ -23,7 +23,7 @@
   ],
   "author": "Mark Pundsack",
   "contributors": [
-    "Zeke Sike <zeke@sikelianos.com> (http://zeke.sikelianos.com)"
+    "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)"
   ],
   "license": "MIT"
 }
